@@ -1,0 +1,7 @@
+- Tên sự kiện: AI Career Day
+- Đối tượng: Sinh viên đại học
+- Ngày: 15 tháng 11
+- Thời gian: 14:00–16:00
+- Địa điểm: Phòng hội thảo A
+- Chi phí: Miễn phí
+- Hạn đăng ký: 10 tháng 11
